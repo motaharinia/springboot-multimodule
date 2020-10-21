@@ -11,7 +11,7 @@ further references:
 - https://www.javatpoint.com/spring-boot-multi-module-project
 
 ### Project Descriptions:
-please see application.properties files in resources folder and select a active profile "dev" or "com" to run project. you can check test methods too.  
+please see parent and child project pom.xml files.  
 
 ### IntellliJ IDEA Configurations:
 - IntelijIDEA: Help -> Edit Custom Vm Options -> add these two line:
