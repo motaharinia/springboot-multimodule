@@ -2,31 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="867aca0a-052b-4a5e-998e-bd009ae439d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/qspringbootpackaging/SpringBootPackaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/qspringbootpackaging/spring-boot-packaging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/rspringbootautoconfiguration/SpringBootAutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/rspringbootautoconfiguration/spring-boot-auto-configuration.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/rspringbootautoconfiguration/spring-boot-auto-configuration12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/rspringbootautoconfiguration/spring-boot-auto-configuration14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/rspringbootautoconfiguration/spring-boot-auto-configuration15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/sspringbootcaching/SpringBootCaching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javacore.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../javacore.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/mspringbootstarteractuator/SpringBootStarterActuator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/mspringbootstarteractuator/SpringBootStarterActuator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/ospringbootdevtools/SpringBootDevTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/ospringbootdevtools/SpringBootDevTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/pspringbootmultimoduleproject/SpringBootMultiModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springandboot/src/main/java/com/motaharinia/springandboot/pspringbootmultimoduleproject/SpringBootMultiModule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/base/presentation/model/GridDataModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/base/presentation/model/GridDataModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/business/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/business/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/business/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/business/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/persistence/orm/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/persistence/orm/user/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/persistence/orm/user/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/persistence/orm/user/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/presentation/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/presentation/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/presentation/model/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/java/com/motaharinia/presentation/model/UserModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/resources/application-com.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/resources/application-com.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/resources/application-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/resources/data-oracle222.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-datajpaoracle/src/main/resources/data-oracle.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-datajpaoracle/src/test/java/com/motaharinia/presentation/controller/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-datajpaoracle/src/test/java/com/motaharinia/presentation/controller/UserControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/main/java/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/test/java/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +21,15 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -64,9 +56,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\My\googleDrive\me\work\github\motaharinia\springboot-multimodule\src\main\resources" />
+      <recent name="E:\My\googleDrive\me\work\github\motaharinia\springboot-multimodule\application\src\main\resources" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,6 +86,7 @@
       <workItem from="1590913688060" duration="483000" />
       <workItem from="1590926534152" duration="493000" />
       <workItem from="1591016142814" duration="2361000" />
+      <workItem from="1603315917052" duration="251000" />
     </task>
     <servers />
   </component>
@@ -91,15 +95,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="25" key="#Project_Structure" timestamp="1590913704989">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1603315966546">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1590913704989" />
-    <state x="65" y="68" width="1241" height="584" key="new project wizard" timestamp="1590826865421">
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1603315966546" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1603316181304">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="68" width="1241" height="584" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1590826865421" />
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603316181304" />
   </component>
 </project>
