@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="867aca0a-052b-4a5e-998e-bd009ae439d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/application/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/src/test/java/ApplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ParentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +77,7 @@
       <workItem from="1590913688060" duration="483000" />
       <workItem from="1590926534152" duration="493000" />
       <workItem from="1591016142814" duration="2361000" />
-      <workItem from="1603315917052" duration="251000" />
+      <workItem from="1603315917052" duration="465000" />
     </task>
     <servers />
   </component>
